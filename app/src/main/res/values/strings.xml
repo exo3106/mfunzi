@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mfunzi</string>
+    <string name="title_activity_feature">FeatureActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_main_app">MainApp</string>
+    <string name="start_screen_title">Mfunzi</string>
+    <string name="title_activity_init">InitActivity</string>
+</resources>
